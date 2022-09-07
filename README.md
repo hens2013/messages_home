@@ -2,7 +2,7 @@
 
 #for activate the project locally
 
-git clone https://github.com/hens2013/Messages.git
+git clone https://github.com/hens2013/messages_home.git
 
 cd messages_home
 
