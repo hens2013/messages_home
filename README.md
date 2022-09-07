@@ -17,3 +17,8 @@ python manage.py migrate
 python manage.py runserver
 
 navigate to the given url in the log
+
+
+admin user-
+username- hen
+password - 123456
